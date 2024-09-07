@@ -1,0 +1,25 @@
+.box_love_groups{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    row-gap: 40px;
+}
+
+.cart_category{
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    transition: all 400ms ease 50ms;
+}
+
+.cart_category:hover {
+    transform: translateY(-20px);
+}
+.cart_category:hover .link_love_groups{
+    color:#e59e04;
+}
+.link_love_groups{
+   
+    color: #fff;
+    display: block;
+}

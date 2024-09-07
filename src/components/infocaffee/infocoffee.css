@@ -1,0 +1,116 @@
+.box_info_coffee{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+    margin: 2rem 2rem;
+}
+.box_info1 {
+    background-image: url('../asserts/slider.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 230px;
+    width: 540px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+.box_info2 {
+    background-image: url('../../slide-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 230px;
+    width: 540px;
+    border-radius: 10px;
+
+}
+
+.theme_box_info {
+    background-color: #00000056;
+    height: 100%;
+    width: 100%;
+    padding-right: 1rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+
+}
+
+.theme_box_info:hover {
+    background: linear-gradient(270deg, #000000c9, #0000004d);
+}
+
+.hover {
+    transition: all 300ms ease;
+}
+
+.theme_box_info:hover .hover {
+    transform: translateX(-20px);
+}
+
+@media screen and (max-width:1200px) {
+    .box_info1 {
+        height: 200px;
+        width: 450px;
+    }
+    .box_info2{
+        height: 200px;
+    width: 450px;
+    }
+}
+@media screen and (max-width:1000px) {
+    .box_info1 {
+        height: 150px;
+        width: 350px;
+    }
+    .box_info2{
+        height: 150px;
+    width: 350px;
+    }
+}
+@media screen and (max-width:740px) {
+    .box_info1 {
+        height: 140px;
+    
+    }
+    .box_info2{
+        height: 140px;
+
+    }
+    .hover{
+        font-size: medium;
+    }
+    .theme_box_info p{
+        font-size: small;
+    }
+    .box_info_coffee {
+        display: flex;
+        padding: 1rem;
+        justify-content: space-between;
+        margin: 1rem 1rem;
+        flex-direction: column;
+        align-items: center;
+        row-gap: 30px;
+    }
+}
+@media screen and (max-width:540px) {
+    .box_info1 {
+        height: 140px;
+       
+    }
+    .box_info2{
+        height: 140px;
+ 
+    }
+    .hover{
+        font-size: small;
+    }
+    .theme_box_info p{
+        font-size: x-small;
+    }
+}
