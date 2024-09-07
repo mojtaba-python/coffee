@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/coffee/static/css/main.d4f87d5d.css",
+    "main.js": "/coffee/static/js/main.903bdf3d.js",
+    "static/media/slide-1.png": "/coffee/static/media/slide-1.3824435f2baa90b0768a.png",
+    "static/media/a-1 (1).jpg": "/coffee/static/media/a-1 (1).14adc8c548711f7ba700.jpg",
+    "static/media/a-1.jpg": "/coffee/static/media/a-1.14adc8c548711f7ba700.jpg",
+    "static/media/n-3.jpg": "/coffee/static/media/n-3.14adc8c548711f7ba700.jpg",
+    "static/media/a-2.jpg": "/coffee/static/media/a-2.8acc5c99f13269bce84b.jpg",
+    "static/media/slider.webp": "/coffee/static/media/slider.722f436c18c44ec809a8.webp",
+    "static/media/n-4.webp": "/coffee/static/media/n-4.5650d8457f7406b870d9.webp",
+    "static/media/p-5.webp": "/coffee/static/media/p-5.8f83b2d906f06a860b7a.webp",
+    "static/media/p3.png": "/coffee/static/media/p3.4b0dcb5074b2e59532a0.png",
+    "static/media/p2.png": "/coffee/static/media/p2.8270726593cdef3da6fa.png",
+    "static/media/p4.png": "/coffee/static/media/p4.54f1e589bc3c3a1ce81d.png",
+    "static/media/category4.png": "/coffee/static/media/category4.7763d407f6cbf9b19a52.png",
+    "static/media/category3.png": "/coffee/static/media/category3.42630acee1d5508667fd.png",
+    "static/media/category2.png": "/coffee/static/media/category2.7d023ddbedcab9daf75d.png",
+    "static/media/category1.png": "/coffee/static/media/category1.47f208221477215e5c2c.png",
+    "static/media/revicons.eot": "/coffee/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/coffee/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/logo.png": "/coffee/static/media/logo.8453640c8b2f1cbb145a.png",
+    "static/media/revicons.woff": "/coffee/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/coffee/index.html",
+    "main.d4f87d5d.css.map": "/coffee/static/css/main.d4f87d5d.css.map",
+    "main.903bdf3d.js.map": "/coffee/static/js/main.903bdf3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f87d5d.css",
+    "static/js/main.903bdf3d.js"
+  ]
+}
